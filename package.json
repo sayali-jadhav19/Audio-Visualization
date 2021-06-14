@@ -1,0 +1,17 @@
+{
+  "name": "audio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sound.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "browserslist": [
+    "last 1 chrome versions"
+  ],
+  "dependencies": {
+    "parcel": "^2.0.0-alpha.2.1"
+  }
+}
